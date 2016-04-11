@@ -1,0 +1,1 @@
+# brew-elasticsearch-cluster
